@@ -4,4 +4,4 @@ some new add
 add some test on master
 new
 remote add upstream
-
+delete
